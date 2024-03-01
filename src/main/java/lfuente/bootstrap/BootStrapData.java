@@ -12,6 +12,8 @@ import lfuente.repository.AlimentoRepository;
 import lfuente.domain.Categoria;
 import lfuente.repository.CategoriaRepository;
 
+// Para realizar pruebas
+
 @Component
 public class BootStrapData implements CommandLineRunner{
 	

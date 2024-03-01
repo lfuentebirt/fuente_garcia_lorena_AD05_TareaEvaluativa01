@@ -5,7 +5,8 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 /*
  *	AD05_TE01 -   Framework para el acceso de datos
  *				  Lorena Fuente (DAM)
- *				  Aplicación que muestra un listado de alimentos y su categoría.
+ *				  Aplicación Spring MVC utilizando Oracle XE y dependencias,
+ *				  que muestra un listado de alimentos y su categoría.
  *				  Un alimento solo podrá ser de una categoría y una categoría podrá
  *				  contener más de un alimento 
  * 
